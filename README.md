@@ -68,6 +68,10 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## 🌐 Live Demo
+Check out the deployed application here:
+🔗 **[Movie Recommendation System](https://jainam576-movie-recommendation-system-app-1dlf6n.streamlit.app/)**
+
 ## 🔥 Future Improvements
 - Enhance similarity calculation using **TF-IDF or BERT embeddings**
 - Add **collaborative filtering (user-based recommendations)**
